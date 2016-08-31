@@ -1,0 +1,25 @@
+{
+  "name": "polymer-es6",
+  "version": "1.0.0",
+  "description": "Example app for building a Polymer app using es2015",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boldfacedesign/polymer-es6.git"
+  },
+  "keywords": [
+    "polymer",
+    "es6",
+    "es2015",
+    "rollup"
+  ],
+  "author": "David Parker",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/boldfacedesign/polymer-es6/issues"
+  },
+  "homepage": "https://github.com/boldfacedesign/polymer-es6#readme"
+}
